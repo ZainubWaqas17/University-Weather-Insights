@@ -1,0 +1,5 @@
+node_modules/
+coverage/
+out/
+images_out/
+.DS_Store
